@@ -1,3 +1,3 @@
 poet
 ====
-$ mkdir~/ok
+mkdir ~/Hello-World
